@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805844279208",
+    "project_id": "chotu-de9d5",
+    "storage_bucket": "chotu-de9d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805844279208:android:6f5b679aa4397c3496879d",
+        "android_client_info": {
+          "package_name": "com.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805844279208-alu41a74g9nvvtj5a6a2ot2gn0tmhrod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu87NmadhPoCSX-E5qVa5zDGe4Laicw8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805844279208-alu41a74g9nvvtj5a6a2ot2gn0tmhrod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
