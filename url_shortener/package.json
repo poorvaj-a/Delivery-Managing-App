@@ -1,0 +1,33 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cheerio": "^1.0.0-rc.10",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "got": "^12.0.2",
+    "htm": "^3.1.0",
+    "html": "^1.0.0",
+    "htmlparser": "^1.7.7",
+    "htmlparser2": "^7.2.0",
+    "jade": "^1.11.0",
+    "jsdom": "^19.0.0",
+    "mongoose": "^6.2.2",
+    "nanoid": "^3.3.1",
+    "node-fetch": "^3.2.3",
+    "pug": "^3.0.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "requests": "^0.3.0",
+    "shortid": "^2.2.16"
+  }
+}
